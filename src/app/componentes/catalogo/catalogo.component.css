@@ -1,0 +1,8 @@
+.container-fluid {
+    background-image: url('../../../assets/main-fondo.jpg');
+    min-height: 720px;
+}
+
+#mostrador {
+    min-height: 600px;
+}
